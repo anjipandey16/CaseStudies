@@ -1,1 +1,12 @@
 
+import EDA_FeatureEngg
+#split dataset in features and target variable
+
+feature_cols = ['txn_id','user_id','amount','merchant_category','channel','t_day','t_month','t_year']
+label =  ['is_fraud']   #Features used for the example
+X = input_file[feature_cols]                                # Features
+y = input_file[label]                                        # Target variable
+
+ # Split dataset into training set and test set
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=1)
+
