@@ -18,18 +18,18 @@ Environment: Jupyter Notebook
 
 
 ## Key Features
-## Data Preprocessing: Cleaning, scaling, and encoding categorical variables.
-## Imbalance Handling: Implementation of techniques like SMOTE (Synthetic Minority Over-sampling Technique) or undersampling.
-## Feature Engineering: Identifying the most influential factors in flagging high-risk transactions.
-## Model Evaluation: Detailed comparison of different algorithms to minimize false negatives (missed fraud).
+# Data Preprocessing: Cleaning, scaling, and encoding categorical variables.
+# Imbalance Handling: Implementation of techniques like SMOTE (Synthetic Minority Over-sampling Technique) or undersampling.
+# Feature Engineering: Identifying the most influential factors in flagging high-risk transactions.
+# Model Evaluation: Detailed comparison of different algorithms to minimize false negatives (missed fraud).
 
 
 ## Repository Structure
-## Plaintext
-## ├── FraudDetectionForDigitalPaymentSystem/
-## │   └── [Notebook Name].ipynb    # Core analysis and modeling
-## ├── README.md                    # Project documentation
-## └── data/                        # (Optional) Dataset or data descriptions
+# Plaintext
+# ├── FraudDetectionForDigitalPaymentSystem/
+# │   └── [Notebook Name].ipynb    # Core analysis and modeling
+# ├── README.md                    # Project documentation
+# └── data/                        # (Optional) Dataset or data descriptions
 
 
 ## How to Run
