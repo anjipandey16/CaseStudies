@@ -30,16 +30,3 @@ Environment: Jupyter Notebook
 * │   └── [Notebook Name].ipynb    # Core analysis and modeling
 * ├── README.md                    # Project documentation
 * └── data/                        # (Optional) Dataset or data descriptions
-
-
-## How to Run
-Clone the repository:
-
-
-## Bash
-git clone https://github.com/anjipandey16/CaseStudies.git
-
-## Install dependencies:
-pip install pandas numpy scikit-learn matplotlib seaborn
-Launch the notebook:
-Open the Jupyter Notebook in the FraudDetectionForDigitalPaymentSystem folder to view the step-by-step implementation.
